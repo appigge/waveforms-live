@@ -26,7 +26,7 @@
         "@angular/platform-browser-dynamic": "2.0.0",
         "@angular/platform-server": "2.0.0",
         "@ionic/storage": "1.0.3",
-        "cordova-browser": "^5.0.3",
+        "cordova-browser": "^7.0.0",
         "cordova-plugin-console": "^1.0.5",
         "cordova-plugin-device": "^1.1.4",
         "cordova-plugin-splashscreen": "^4.0.3",
